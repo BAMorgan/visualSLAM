@@ -1,0 +1,6 @@
+#ifndef VISUALSLAM_LIBRARY_H
+#define VISUALSLAM_LIBRARY_H
+
+void hello();
+
+#endif //VISUALSLAM_LIBRARY_H
